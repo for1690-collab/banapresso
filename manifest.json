@@ -1,0 +1,16 @@
+{
+  "name": "바나프레소 옥길점",
+  "short_name": "바나프레소",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fcf9f4",
+  "theme_color": "#f15b82",
+  "icons": [
+    {
+      "src": "icon_pink.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
